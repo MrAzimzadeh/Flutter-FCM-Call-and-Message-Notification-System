@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116259425904",
+    "project_id": "push-notification-34e5c",
+    "storage_bucket": "push-notification-34e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116259425904:android:4d78caa30f8fb7920deeb5",
+        "android_client_info": {
+          "package_name": "com.example.fcm_voice_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxZbs94ogV3BBRo7FI4MOQv_ssrAdjLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
